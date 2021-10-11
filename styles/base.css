@@ -725,6 +725,8 @@ footer {
   /* ######### 10a-iv. CTA summaries, Large screen rules ######### */
   .cta {
     min-height: 200px;
+    display: flex;
+    
   }
 
   .cta1 {
