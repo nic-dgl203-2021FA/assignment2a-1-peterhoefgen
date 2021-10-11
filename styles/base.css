@@ -768,6 +768,7 @@ footer {
     max-width: 1000px;
     margin: auto;
     padding: 0 1rem;
+    display: grid;
   }
 
   .team h1 {
