@@ -840,6 +840,7 @@ footer {
 
 .action article {
   margin-bottom: 1rem;
+  display: grid;
 }
 
 .action article h1 {
@@ -852,7 +853,7 @@ footer {
 }
 
 .action ul li {
-  
+
 }
 
   /* ######### 10a-viii. Footer, Large screen rules ######### */
