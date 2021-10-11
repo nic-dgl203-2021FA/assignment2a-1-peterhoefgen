@@ -697,6 +697,7 @@ footer {
 
   .trips article {
     width: 90%;
+    display: flex;
   }
 
   .trips h1 {
