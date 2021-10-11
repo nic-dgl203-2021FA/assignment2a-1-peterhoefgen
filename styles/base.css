@@ -510,6 +510,7 @@ section.problem {
   margin: 1rem auto;
   display: grid;
   grid-template-columns: 1fr 4fr;
+  grid-template-rows: auto;
 }
 
 .action li h1 {
