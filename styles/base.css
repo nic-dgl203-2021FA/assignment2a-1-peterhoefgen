@@ -852,11 +852,11 @@ footer {
 
 .action ul {
   display: flex;
-  flex-wrap;
+  flex-wrap: wrap;
 }
 
 .action ul li {
-
+  flex-basis: 48%;
 }
 
   /* ######### 10a-viii. Footer, Large screen rules ######### */
