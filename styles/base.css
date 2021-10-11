@@ -852,6 +852,7 @@ footer {
 
 .action ul {
   display: flex;
+  flex-wrap;
 }
 
 .action ul li {
