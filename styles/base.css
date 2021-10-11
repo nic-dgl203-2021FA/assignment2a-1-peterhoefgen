@@ -530,6 +530,7 @@ section.problem {
   border-radius: 0 6px 0 0;
   color: #fff;
   padding: 0.5rem 1rem;
+  grid-column: 2 / -1;
 }
 
 .action li p {
