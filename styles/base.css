@@ -508,6 +508,8 @@ section.problem {
   border-radius: 6px;
   list-style-type: none;
   margin: 1rem auto;
+  display: grid;
+  grid-template-columns: 1fr 4fr;
 }
 
 .action li h1 {
