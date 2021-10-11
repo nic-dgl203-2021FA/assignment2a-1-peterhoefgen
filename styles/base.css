@@ -831,6 +831,29 @@ footer {
   .problem img {
     display: none;
   }
+  /* ######### 10a-vii. Actions, Large screen rules ######### */
+
+.action {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.action article {
+  margin-bottom: 1rem;
+}
+
+.action article h1 {
+  text-align: right;
+  margin-right: 1rem;
+}
+
+.action ul {
+
+}
+
+.action ul li {
+  
+}
 
   /* ######### 10a-viii. Footer, Large screen rules ######### */
   footer {
