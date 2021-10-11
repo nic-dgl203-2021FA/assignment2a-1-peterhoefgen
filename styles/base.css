@@ -643,6 +643,7 @@ footer {
 
   /* ######### 10a-ii. Navigation, Large screen rules ######### */
   .navWrap {
+    display: grid;
   }
 
   .navToggleLabel {
