@@ -269,6 +269,7 @@ nav .btn {
   letter-spacing: 1px;
   text-shadow: 0 0 1px rgb(19, 177, 231);
   display: flex;
+  justify-content: center;
 }
 
 nav .btn:hover {
