@@ -798,6 +798,7 @@ footer {
     max-width: 1200px;
     display: grid;
     grid-template-columns: repeat(8, 1fr);
+    align-items: center;
   }
 
   .problem h1 {
