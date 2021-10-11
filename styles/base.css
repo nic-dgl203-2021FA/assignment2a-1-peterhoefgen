@@ -645,6 +645,7 @@ footer {
   .navWrap {
     display: grid;
     justify-content: center;
+    grid-template-columns: 100px minmax(auto, 1100px);
   }
 
   .navToggleLabel {
