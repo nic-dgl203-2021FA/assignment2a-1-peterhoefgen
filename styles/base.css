@@ -404,6 +404,7 @@ nav .btn:hover {
   list-style-type: none;
   margin: 1rem 0;
   display: grid;
+  grid-template-columns: repeat(10, 1fr);
 }
 
 .teamMembers li {
