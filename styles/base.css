@@ -698,6 +698,7 @@ footer {
   .trips article {
     width: 90%;
     display: flex;
+    align-items: center;
   }
 
   .trips h1 {
