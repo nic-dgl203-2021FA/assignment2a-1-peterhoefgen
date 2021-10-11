@@ -403,6 +403,7 @@ nav .btn:hover {
 .teamMembers {
   list-style-type: none;
   margin: 1rem 0;
+  display: grid;
 }
 
 .teamMembers li {
