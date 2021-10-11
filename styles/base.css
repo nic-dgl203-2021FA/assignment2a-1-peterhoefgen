@@ -318,6 +318,7 @@ nav .btn:hover {
   padding: 1.8rem;
   display: grid;
   grid-template-columns: 1fr;
+  grid-template-rows: auto minmax(140px, 1fr) auto;
 }
 
 .tripList h3,
