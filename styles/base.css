@@ -842,6 +842,7 @@ footer {
   margin-bottom: 1rem;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+  align-items: center;
 }
 
 .action article h1 {
