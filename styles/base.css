@@ -574,6 +574,8 @@ section.problem {
 
 .galleryWrap {
   display: grid;
+  grid-template-columns: repeat(autofit, minmax(250px, 1fr));
+  grid-gap: .5em;
 }
 
 .galleryWrap img[src$="_w.jpg"] {
