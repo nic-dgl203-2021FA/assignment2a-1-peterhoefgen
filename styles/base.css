@@ -573,6 +573,7 @@ section.problem {
 }
 
 .galleryWrap {
+  display: grid;
 }
 
 .galleryWrap img[src$="_w.jpg"] {
