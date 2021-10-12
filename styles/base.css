@@ -915,12 +915,15 @@ footer {
   .form {
     display: grid;
     grid-template-columns: auto minmax(min-content, 580px);
+    grid-template-areas: ;
   }
 
   .form h3 {
+    grid-area: h;
   }
 
   .form p.formIntro {
+    grid-area: p;
   }
 
   .social article {
