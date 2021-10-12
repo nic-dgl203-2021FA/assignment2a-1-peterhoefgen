@@ -871,6 +871,9 @@ footer {
 
   /* ######### 10a-viii. Footer, Large screen rules ######### */
   footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr .25fr;
   }
 
   .contact {
