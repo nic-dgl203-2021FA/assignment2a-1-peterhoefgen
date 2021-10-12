@@ -913,6 +913,8 @@ footer {
 @media screen and (min-width: 1000px) {
   /* ######### 10b-i. Footer, X-Large screen rules ######### */
   .form {
+    display: grid;
+    grid-template-columns: auto minmax(min-content, 580px);
   }
 
   .form h3 {
