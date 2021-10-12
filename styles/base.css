@@ -584,6 +584,7 @@ section.problem {
 }
 
 .galleryWrap img[src$="_p.jpg"] {
+  grid-row-end: span 2;
 }
 
 .galleryWrap img {
